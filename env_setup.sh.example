@@ -1,0 +1,4 @@
+echo "# gitlab" >> $HOME/.bash_aliases
+echo "export GITLAB_URL="http://localhost:8929"" >> $HOME/.bash_aliases
+echo "export GITLAB_HOME=$HOME/data/gitlab-server" >> $HOME/.bash_aliases
+echo "export GITLAB_RUNNER=$HOME/data/gitlab-runner" >> $HOME/.bash_aliases

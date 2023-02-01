@@ -1,0 +1,1 @@
+docker exec -it gitlab_gitlab-runner_1 gitlab-runner register
